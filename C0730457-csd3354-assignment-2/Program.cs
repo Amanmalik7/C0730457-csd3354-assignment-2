@@ -21,6 +21,7 @@ namespace C0730457_csd3354_assignment_2
             myDelegate();
         }
     }
+
     class program
     {
         public static void Main()
